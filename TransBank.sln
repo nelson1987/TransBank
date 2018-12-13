@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransBank.Domain", "TransBank.Domain\TransBank.Domain.csproj", "{8EDEF2FC-986C-4C1D-A473-D19BB2A1C15F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransBank.Domain.Tests", "TransBank.Domain.Tests\TransBank.Domain.Tests.csproj", "{21F520E6-C513-4C2E-A41E-C82F7B449229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDEF2FC-986C-4C1D-A473-D19BB2A1C15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDEF2FC-986C-4C1D-A473-D19BB2A1C15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDEF2FC-986C-4C1D-A473-D19BB2A1C15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDEF2FC-986C-4C1D-A473-D19BB2A1C15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F520E6-C513-4C2E-A41E-C82F7B449229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F520E6-C513-4C2E-A41E-C82F7B449229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F520E6-C513-4C2E-A41E-C82F7B449229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F520E6-C513-4C2E-A41E-C82F7B449229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE8B6A4-47A3-463C-BA16-9A27DB10A2F3}
+	EndGlobalSection
+EndGlobal

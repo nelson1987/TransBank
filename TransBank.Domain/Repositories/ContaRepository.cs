@@ -4,9 +4,9 @@ namespace TransBank.Domain.Repositories
 {
     public class ContaRepository
     {
-        public Conta BuscarPorId()
+        public virtual Conta BuscarPorId(int id)
         {
-            return new Conta();
+            return null;
         }
     }
 }

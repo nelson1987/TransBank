@@ -53,3 +53,5 @@ dkms.conf
 /.vs
 /TransBank.Domain/obj
 /TransBank.Domain.Tests/obj
+/TransBank.Domain/bin
+/TransBank.Domain.Tests/bin

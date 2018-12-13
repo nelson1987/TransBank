@@ -4,6 +4,11 @@ namespace TransBank.Domain.Entities
 {
     public class Conta
     {
+        public Conta(string numero, decimal saldo)
+        {
+            Numero = numero;
+            Saldo = saldo;
+        }
         public string Numero { get; private set; }
         public decimal Saldo { get; private set; }
 

@@ -15,7 +15,7 @@ namespace TransBank.Domain.Tests
         }
 
         [Test] //método de teste
-        public void CrudProduto()
+        public void Depositar500()
         {
             //var contaCorrente = new Conta();
 

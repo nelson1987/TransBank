@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TransBank.Domain
+namespace TransBank.Domain.Entities
 {
     public class Conta
     {
